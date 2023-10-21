@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\saim rao\Desktop\Interview\myenv"
+VIRTUAL_ENV="C:\Users\saim rao\Desktop\Interview\Django-rest-API\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
